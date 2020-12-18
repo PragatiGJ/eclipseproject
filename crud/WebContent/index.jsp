@@ -21,6 +21,7 @@
 				<option value="uk">UK</option>
 				<option value="Germany">UK</option>
 				<option value="Japan">UK</option>
+				<option value="Cuba">UK</option>
 			</select>
 			<br>
 			<input type="submit" value="Submit">
