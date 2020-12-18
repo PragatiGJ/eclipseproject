@@ -19,6 +19,8 @@
 				<option value="canada">Canada</option>
 				<option value="usa">USA</option>
 				<option value="uk">UK</option>
+				<option value="Germany">UK</option>
+				<option value="Japan">UK</option>
 			</select>
 			<br>
 			<input type="submit" value="Submit">
